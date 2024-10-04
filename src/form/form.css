@@ -1,0 +1,11 @@
+input::placeholder{
+    color: #7C7C8A !important;
+}
+TextArea::placeholder{
+    color: #7C7C8A !important;
+}
+TextArea{
+    background-color: #0D161B !important;
+    border: none !important;
+}
+
